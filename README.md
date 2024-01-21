@@ -8,9 +8,9 @@
 - 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/jeffynunes09?tab=repositories" target="_blank" > jeffynunes09</a>
 - 😄 Pronome: Ele/Dele
 - ⚡ Curiosidade: adoro aprender e praticar musculação
-  
+   <br>
   <br>
-src="https://camo.githubusercontent.com/8acba917ae419aff6f16aa6cd4bb007f9de5de268d87a1dbadeb5aa16b7ae8bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245"/>
+   
   </div>
   <br>
   <br>
