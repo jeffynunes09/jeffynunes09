@@ -3,7 +3,7 @@
   **Desenvolvedor FullStack**
   
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares
-- 🌱 Atualmente estou aprimorando minhas habilidades em React Js, Angular, TypeScript,Node.Js, APIs e bancos de dados
+- 🌱 Atualmente estou aprimorando minhas habilidades em React Js, MUI, JavaScript,Node.Js, APIs e bancos de dados
 - 💬 Pergunte-me sobre: JavaScript, Node.Js, MongoDB,
 - 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/jeffynunes09?tab=repositories" target="_blank" > jeffynunes09</a>
 - 😄 Pronome: Ele/Dele
