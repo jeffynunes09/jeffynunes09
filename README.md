@@ -28,7 +28,7 @@
    [Jeffyndev](https://www.instagram.com/jeffyndev/)
 
   <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F6D90&width=435&lines=Veja+meu+Portf%C3%B3lio%3A" alt="Typing SVG" /></a>
+<a href="https://portifolio-vert-one.vercel.app/#about?fbclid=PAZXh0bgNhZW0CMTEAAaaF4AbpZtjN69brKAm9sGFj7SmAtUxwUGRXbT1K52wBgmgceBg0PFQuauo_aem_QevDB7nsZzQRl8iLl_rZzw "><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F6D90&width=435&lines=Veja+meu+Portf%C3%B3lio%3A" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://github.com/jeffynunes09/fot/blob/main/WhatsApp%20Image%202024-07-21%20at%2012.59.56.jpeg?raw=true" /></a>
  
   <div align="center">
