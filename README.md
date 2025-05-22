@@ -4,8 +4,8 @@
 
   **Desenvolvedor FullStack**
   
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares
-- 🌱 Atualmente estou aprimorando minhas habilidades em MySQL, Python, Flask e SQLAlchemy.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares
+- 🌱 Atualmente estou aprimorando minhas habilidades em Nest js , React, Typscript Aws e DevOps.
 - 💬 Pergunte-me sobre: JavaScript, Node.Js, MongoDB,Tailwind e React!
 - 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/jeffynunes09?tab=repositories" target="_blank" > jeffynunes09</a>
 - 😄 Pronome: Ele/Dele
